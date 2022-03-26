@@ -1,0 +1,3 @@
+-r infrastructure/requirements.txt
+-r application/requirements.txt
+pre-commit==2.9.3
