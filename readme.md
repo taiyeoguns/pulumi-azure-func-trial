@@ -38,7 +38,7 @@ source venv/bin/activate
 
 ### Set up Azure
 
-If AWS credentials/SSO not already set up, open a command prompt, enter:
+If Azure credentials/SSO not already set up, open a command prompt, enter:
 
 ```sh
 az login
